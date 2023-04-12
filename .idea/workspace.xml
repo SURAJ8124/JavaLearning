@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="Day choose with switch case statement">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Decision_SwitchCase_Satement/SwitchCaseStatement2.java" afterDir="false" />
+    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="car choose switch case statement">
+      <change afterPath="$PROJECT_DIR$/src/Chapter3_Decision_SwitchCase_Satement/SwitchCaseStatement3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3_Decision_SwitchCase_Satement/SwitchCaseStatement4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwitchCaseStatement2">
+  <component name="RunManager" selected="Application.SwitchCaseStatement4">
     <configuration name="IfelseWithLoop3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3_Decicision_Making_Branching_Looping.IfelseWithLoop3" />
       <module name="JavaTut" />
@@ -84,8 +85,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchCaseStatement3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3_Decision_SwitchCase_Satement.SwitchCaseStatement3" />
+      <module name="JavaTut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3_Decision_SwitchCase_Satement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCaseStatement4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3_Decision_SwitchCase_Satement.SwitchCaseStatement4" />
+      <module name="JavaTut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3_Decision_SwitchCase_Satement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchCaseStatement4" />
+        <item itemvalue="Application.SwitchCaseStatement3" />
         <item itemvalue="Application.SwitchCaseStatement2" />
         <item itemvalue="Application.SwitchCaseStatement1" />
         <item itemvalue="Application.IfelseWithLoop3" />
@@ -143,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681310162826</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="car choose switch case statement">
+      <created>1681311594893</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681311594893</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +188,7 @@
     <MESSAGE value="If else condtion" />
     <MESSAGE value="Two sum array" />
     <MESSAGE value="Day choose with switch case statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day choose with switch case statement" />
+    <MESSAGE value="car choose switch case statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="car choose switch case statement" />
   </component>
 </project>
