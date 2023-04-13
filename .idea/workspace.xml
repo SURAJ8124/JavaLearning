@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment=" switch case statement">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Nested_For_Loop/PatternNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Nested_For_Loop/PatternWithABCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Nested_For_Loop/TriangleLoop.java" afterDir="false" />
+    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="Pattern Code">
+      <change afterPath="$PROJECT_DIR$/src/Chapter3_Nested_For_Loop/ForEachLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +44,20 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PatternNumber">
+  <component name="RunManager" selected="Application.ForEachLoop">
+    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3_Nested_For_Loop.ForEachLoop" />
+      <module name="JavaTut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3_Nested_For_Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PatternNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3_Nested_For_Loop.PatternNumber" />
       <module name="JavaTut" />
@@ -101,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEachLoop" />
         <item itemvalue="Application.PatternNumber" />
         <item itemvalue="Application.TriangleLoop" />
         <item itemvalue="Application.SwitchCaseStatement4" />
@@ -173,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681319518969</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Pattern Code">
+      <created>1681364242638</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681364242638</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,6 +203,7 @@
     <MESSAGE value="Day choose with switch case statement" />
     <MESSAGE value="car choose switch case statement" />
     <MESSAGE value=" switch case statement" />
-    <option name="LAST_COMMIT_MESSAGE" value=" switch case statement" />
+    <MESSAGE value="Pattern Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern Code" />
   </component>
 </project>
