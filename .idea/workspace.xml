@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="Pattern Code">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Nested_For_Loop/ForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="ForEach">
+      <change afterPath="$PROJECT_DIR$/src/Chapter3_Nested_For_Loop/SumOfArrayForEachLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForEachLoop">
+  <component name="RunManager" selected="Application.SumOfArrayForEachLoop">
     <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3_Nested_For_Loop.ForEachLoop" />
       <module name="JavaTut" />
@@ -71,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCaseStatement3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3_Decision_SwitchCase_Satement.SwitchCaseStatement3" />
+    <configuration name="SumOfArrayForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3_Nested_For_Loop.SumOfArrayForEachLoop" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3_Decision_SwitchCase_Satement.*" />
+          <option name="PATTERN" value="Chapter3_Nested_For_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfArrayForEachLoop" />
         <item itemvalue="Application.ForEachLoop" />
         <item itemvalue="Application.PatternNumber" />
         <item itemvalue="Application.TriangleLoop" />
         <item itemvalue="Application.SwitchCaseStatement4" />
-        <item itemvalue="Application.SwitchCaseStatement3" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681364242638</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ForEach">
+      <created>1681368311009</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681368311009</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,6 +210,7 @@
     <MESSAGE value="car choose switch case statement" />
     <MESSAGE value=" switch case statement" />
     <MESSAGE value="Pattern Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern Code" />
+    <MESSAGE value="ForEach" />
+    <option name="LAST_COMMIT_MESSAGE" value="ForEach" />
   </component>
 </project>
