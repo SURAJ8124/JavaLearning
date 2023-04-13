@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="ForEach">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Nested_For_Loop/SumOfArrayForEachLoop.java" afterDir="false" />
+    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="ForEach With sum array">
+      <change afterPath="$PROJECT_DIR$/src/Chapter4_Methoads/CalculationMethoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4_Methoads/VoidMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,20 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfArrayForEachLoop">
+  <component name="RunManager" selected="Application.VoidMethod">
+    <configuration name="CalculationMethoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4_Methoads.CalculationMethoad" />
+      <module name="JavaTut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4_Methoads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3_Nested_For_Loop.ForEachLoop" />
       <module name="JavaTut" />
@@ -83,25 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCaseStatement4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3_Decision_SwitchCase_Satement.SwitchCaseStatement4" />
+    <configuration name="VoidMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4_Methoads.VoidMethod" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3_Decision_SwitchCase_Satement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TriangleLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3_Nested_For_Loop.TriangleLoop" />
-      <module name="JavaTut" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter3_Nested_For_Loop.*" />
+          <option name="PATTERN" value="Chapter4_Methoads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VoidMethod" />
+        <item itemvalue="Application.CalculationMethoad" />
         <item itemvalue="Application.SumOfArrayForEachLoop" />
         <item itemvalue="Application.ForEachLoop" />
         <item itemvalue="Application.PatternNumber" />
-        <item itemvalue="Application.TriangleLoop" />
-        <item itemvalue="Application.SwitchCaseStatement4" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681368311009</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ForEach With sum array">
+      <created>1681368813007</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681368813007</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,6 +220,7 @@
     <MESSAGE value=" switch case statement" />
     <MESSAGE value="Pattern Code" />
     <MESSAGE value="ForEach" />
-    <option name="LAST_COMMIT_MESSAGE" value="ForEach" />
+    <MESSAGE value="ForEach With sum array" />
+    <option name="LAST_COMMIT_MESSAGE" value="ForEach With sum array" />
   </component>
 </project>
