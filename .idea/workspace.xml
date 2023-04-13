@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="car choose switch case statement">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Decision_SwitchCase_Satement/SwitchCaseStatement3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Decision_SwitchCase_Satement/SwitchCaseStatement4.java" afterDir="false" />
+    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment=" switch case statement">
+      <change afterPath="$PROJECT_DIR$/src/Chapter3_Nested_For_Loop/PatternNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3_Nested_For_Loop/PatternWithABCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3_Nested_For_Loop/TriangleLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,39 +46,13 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwitchCaseStatement4">
-    <configuration name="IfelseWithLoop3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3_Decicision_Making_Branching_Looping.IfelseWithLoop3" />
+  <component name="RunManager" selected="Application.PatternNumber">
+    <configuration name="PatternNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3_Nested_For_Loop.PatternNumber" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3_Decicision_Making_Branching_Looping.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchCaseStatement1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3_Decision_SwitchCase_Satement.SwitchCaseStatement1" />
-      <module name="JavaTut" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter3_Decision_SwitchCase_Satement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchCaseStatement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3_Decision_SwitchCase_Satement.SwitchCaseStatement2" />
-      <module name="JavaTut" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter3_Decision_SwitchCase_Satement.*" />
+          <option name="PATTERN" value="Chapter3_Nested_For_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,13 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangleLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3_Nested_For_Loop.TriangleLoop" />
+      <module name="JavaTut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3_Nested_For_Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PatternNumber" />
+        <item itemvalue="Application.TriangleLoop" />
         <item itemvalue="Application.SwitchCaseStatement4" />
         <item itemvalue="Application.SwitchCaseStatement3" />
-        <item itemvalue="Application.SwitchCaseStatement2" />
-        <item itemvalue="Application.SwitchCaseStatement1" />
-        <item itemvalue="Application.IfelseWithLoop3" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681311594893</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" switch case statement">
+      <created>1681319518969</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681319518969</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,6 +183,7 @@
     <MESSAGE value="Two sum array" />
     <MESSAGE value="Day choose with switch case statement" />
     <MESSAGE value="car choose switch case statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="car choose switch case statement" />
+    <MESSAGE value=" switch case statement" />
+    <option name="LAST_COMMIT_MESSAGE" value=" switch case statement" />
   </component>
 </project>
