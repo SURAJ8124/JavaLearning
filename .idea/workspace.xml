@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="overloadingConstructor">
-      <change afterPath="$PROJECT_DIR$/src/Chapter6_Getter_Setter/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6_Getter_Setter/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6_Getter_Setter/GetterSettter1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="Getter Setter">
+      <change afterPath="$PROJECT_DIR$/src/Chapter6_Getter_Setter/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Employee">
+  <component name="RunManager" selected="Application.Student">
     <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter6_Getter_Setter.Addition" />
       <module name="JavaTut" />
@@ -99,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParametrizedConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5_Constructor.ParametrizedConstructor" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6_Getter_Setter.Student" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5_Constructor.*" />
+          <option name="PATTERN" value="Chapter6_Getter_Setter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.Employee" />
         <item itemvalue="Application.Addition" />
         <item itemvalue="Application.GetterSettter1" />
         <item itemvalue="Application.ConstructorOverLoading" />
-        <item itemvalue="Application.ParametrizedConstructor" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681454266302</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Getter Setter">
+      <created>1681540598725</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681540598725</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -262,6 +266,7 @@
     <MESSAGE value="Non-parameterizedConstructor" />
     <MESSAGE value="parameterizedConstructor" />
     <MESSAGE value="overloadingConstructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="overloadingConstructor" />
+    <MESSAGE value="Getter Setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getter Setter" />
   </component>
 </project>
