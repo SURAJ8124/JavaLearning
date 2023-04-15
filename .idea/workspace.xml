@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="parameterizedConstructor">
-      <change afterPath="$PROJECT_DIR$/src/Chapter5_Constructor/ConstructorOverLoading.java" afterDir="false" />
+    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="overloadingConstructor">
+      <change afterPath="$PROJECT_DIR$/src/Chapter6_Getter_Setter/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6_Getter_Setter/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6_Getter_Setter/GetterSettter1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,20 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructorOverLoading">
+  <component name="RunManager" selected="Application.Employee">
+    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6_Getter_Setter.Addition" />
+      <module name="JavaTut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter6_Getter_Setter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConstructorOverLoading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter5_Constructor.ConstructorOverLoading" />
       <module name="JavaTut" />
@@ -58,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5_Constructor.DefaultConstructor" />
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6_Getter_Setter.Employee" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5_Constructor.*" />
+          <option name="PATTERN" value="Chapter6_Getter_Setter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonParametrizedConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5_Constructor.NonParametrizedConstructor" />
+    <configuration name="GetterSettter1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6_Getter_Setter.GetterSettter1" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5_Constructor.*" />
+          <option name="PATTERN" value="Chapter6_Getter_Setter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VoidMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4_Methoads.VoidMethod" />
-      <module name="JavaTut" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter4_Methoads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.Addition" />
+        <item itemvalue="Application.GetterSettter1" />
         <item itemvalue="Application.ConstructorOverLoading" />
         <item itemvalue="Application.ParametrizedConstructor" />
-        <item itemvalue="Application.NonParametrizedConstructor" />
-        <item itemvalue="Application.DefaultConstructor" />
-        <item itemvalue="Application.VoidMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681452706334</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="overloadingConstructor">
+      <created>1681454266302</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681454266302</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -252,6 +261,7 @@
     <MESSAGE value="DefaultConstructor" />
     <MESSAGE value="Non-parameterizedConstructor" />
     <MESSAGE value="parameterizedConstructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="parameterizedConstructor" />
+    <MESSAGE value="overloadingConstructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="overloadingConstructor" />
   </component>
 </project>
