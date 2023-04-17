@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="Encapsulation with student teacher employee with boss">
-      <change afterPath="$PROJECT_DIR$/src/Chapter7_Encapsulation_Oops/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter7_Encapsulation_Oops/Flat.java" afterDir="false" />
+    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="Encapsulation with changing value int to string without error">
+      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +47,20 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Customer">
+  <component name="RunManager" selected="Application.Addition">
+    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.Addition" />
+      <module name="JavaTut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter8_Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Boss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter7_Encapsulation_Oops.Boss" />
       <module name="JavaTut" />
@@ -65,19 +80,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chapter7_Encapsulation_Oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6_Getter_Setter.Employee" />
-      <module name="JavaTut" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter6_Getter_Setter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Addition" />
         <item itemvalue="Application.Customer" />
         <item itemvalue="Application.Boss" />
         <item itemvalue="Application.Teacher" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Employee" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681557394138</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Encapsulation with changing value int to string without error">
+      <created>1681559007042</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1681559007042</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -285,6 +294,7 @@
     <MESSAGE value="Getter Setter" />
     <MESSAGE value="Getter Setter 4" />
     <MESSAGE value="Encapsulation with student teacher employee with boss" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation with student teacher employee with boss" />
+    <MESSAGE value="Encapsulation with changing value int to string without error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation with changing value int to string without error" />
   </component>
 </project>
