@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="Encapsulation with changing value int to string without error">
-      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/MultiLvevleInheritance/BagMultileveleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/MultiLvevleInheritance/MultileveleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/MultiLvevleInheritance/MultileveleInheritance2.java" afterDir="false" />
+    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="MultilevelInheritance">
+      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/MultiLvevleInheritance/OfficeManegementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/MultiLvevleInheritance/SchoolMangementSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,35 +45,9 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BagMultileveleInheritance">
+  <component name="RunManager" selected="Application.OfficeManegementSystem">
     <configuration name="BagMultileveleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.MultiLvevleInheritance.BagMultileveleInheritance" />
-      <module name="JavaTut" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter8_Inheritance.MultiLvevleInheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultilevelInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.MultilevelInheritance" />
-      <module name="JavaTut" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter8_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultileveleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.MultiLvevleInheritance.MultileveleInheritance" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
@@ -112,13 +85,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OfficeManegementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.MultiLvevleInheritance.OfficeManegementSystem" />
+      <module name="JavaTut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter8_Inheritance.MultiLvevleInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolMangementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.MultiLvevleInheritance.SchoolMangementSystem" />
+      <module name="JavaTut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter8_Inheritance.MultiLvevleInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OfficeManegementSystem" />
+        <item itemvalue="Application.SchoolMangementSystem" />
         <item itemvalue="Application.BagMultileveleInheritance" />
         <item itemvalue="Application.MultileveleInheritance2" />
         <item itemvalue="Application.MultileveleInheritance2 (1)" />
-        <item itemvalue="Application.MultileveleInheritance" />
-        <item itemvalue="Application.MultilevelInheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681559007042</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="MultilevelInheritance">
+      <created>1681795848441</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1681795848441</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -294,6 +300,7 @@
     <MESSAGE value="Getter Setter 4" />
     <MESSAGE value="Encapsulation with student teacher employee with boss" />
     <MESSAGE value="Encapsulation with changing value int to string without error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation with changing value int to string without error" />
+    <MESSAGE value="MultilevelInheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="MultilevelInheritance" />
   </component>
 </project>
