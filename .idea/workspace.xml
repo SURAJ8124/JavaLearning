@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="Encapsulation with changing value int to string without error">
-      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/MultiLvevleInheritance/BagMultileveleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/MultiLvevleInheritance/MultileveleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8_Inheritance/MultiLvevleInheritance/MultileveleInheritance2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +46,22 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Addition">
-    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.Addition" />
+  <component name="RunManager" selected="Application.BagMultileveleInheritance">
+    <configuration name="BagMultileveleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.MultiLvevleInheritance.BagMultileveleInheritance" />
+      <module name="JavaTut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter8_Inheritance.MultiLvevleInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultilevelInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.MultilevelInheritance" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
@@ -61,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7_Encapsulation_Oops.Boss" />
+    <configuration name="MultileveleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.MultiLvevleInheritance.MultileveleInheritance" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7_Encapsulation_Oops.*" />
+          <option name="PATTERN" value="Chapter8_Inheritance.MultiLvevleInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7_Encapsulation_Oops.Customer" />
+    <configuration name="MultileveleInheritance2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.MultiLvevleInheritance.MultileveleInheritance2" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7_Encapsulation_Oops.*" />
+          <option name="PATTERN" value="Chapter8_Inheritance.MultiLvevleInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,25 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6_Getter_Setter.Student" />
+    <configuration name="MultileveleInheritance2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8_Inheritance.MultiLvevleInheritance.MultileveleInheritance2" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6_Getter_Setter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Teacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7_Encapsulation_Oops.Teacher" />
-      <module name="JavaTut" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter7_Encapsulation_Oops.*" />
+          <option name="PATTERN" value="Chapter8_Inheritance.MultiLvevleInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Addition" />
-        <item itemvalue="Application.Customer" />
-        <item itemvalue="Application.Boss" />
-        <item itemvalue="Application.Teacher" />
-        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.BagMultileveleInheritance" />
+        <item itemvalue="Application.MultileveleInheritance2" />
+        <item itemvalue="Application.MultileveleInheritance2 (1)" />
+        <item itemvalue="Application.MultileveleInheritance" />
+        <item itemvalue="Application.MultilevelInheritance" />
       </list>
     </recent_temporary>
   </component>
