@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="MethoadOverloading">
-      <change afterPath="$PROJECT_DIR$/src/Chapter10_Methoad_Overriding/Engagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10_Methoad_Overriding/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10_Methoad_Overriding/Student.java" afterDir="false" />
+    <list default="true" id="1f03d253-7afc-4a17-b36f-56fb654d717e" name="Changes" comment="MethoadOverriding">
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Methoad_Overriding/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +44,9 @@
       <recent name="E:\JavaTut\src" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Marry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter10_Methoad_Overriding.Marry" />
+  <component name="RunManager" selected="Application.Employee$B">
+    <configuration name="Employee$B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter10_Methoad_Overriding.Employee$B" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
@@ -60,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethoadOverloadingAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter9_Methoad_Overloading.MethoadOverloadingAddition" />
+    <configuration name="Marry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter10_Methoad_Overriding.Marry" />
       <module name="JavaTut" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter9_Methoad_Overloading.*" />
+          <option name="PATTERN" value="Chapter10_Methoad_Overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Employee$B" />
         <item itemvalue="Application.School" />
         <item itemvalue="Application.Marry" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.MethoadOverloadingSubstraction" />
-        <item itemvalue="Application.MethoadOverloadingAddition" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681867305497</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="MethoadOverriding">
+      <created>1681910090086</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1681910090086</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,6 +331,7 @@
     <MESSAGE value="MultilevelInheritance with office management system" />
     <MESSAGE value="Hirarchical" />
     <MESSAGE value="MethoadOverloading" />
-    <option name="LAST_COMMIT_MESSAGE" value="MethoadOverloading" />
+    <MESSAGE value="MethoadOverriding" />
+    <option name="LAST_COMMIT_MESSAGE" value="MethoadOverriding" />
   </component>
 </project>
